@@ -30,3 +30,11 @@
   - Estandarizado el formato de listas y tablas.
   - Corregidos errores tipográficos y de gramática.
   - Mejorada la estructura de encabezados para una mejor legibilidad.
+
+## [1.2.1] - 2025-07-25
+
+### Added
+- Manual exportado en PDF en la carpeta `/documents`.
+
+### Changed
+- Actualizado el README con una descrpción del proyecto, así como con instrucciones de uso y contribución.
