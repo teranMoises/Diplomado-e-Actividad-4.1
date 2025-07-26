@@ -17,3 +17,16 @@
   - Resolución de Conflictos
   - Uso de GitHub para Escritura Colaborativa
   - Plantilla de Contrato de Grupo
+
+## [1.2.0] - 2025-07-25
+
+### Added
+- Incorporadas imágenes en la carpeta `/images` para ilustrar conceptos en las secciones de Gestión de Proyectos y Herramientas Recomendadas.
+- Agregadas las referencias en la carpeta `/references` para acceder desde el manual a través de un link.
+
+### Changed
+- Revisado el estilo y formato del `manual.md` para garantizar consistencia:
+  - Unificado el tono formal en todas las secciones.
+  - Estandarizado el formato de listas y tablas.
+  - Corregidos errores tipográficos y de gramática.
+  - Mejorada la estructura de encabezados para una mejor legibilidad.
