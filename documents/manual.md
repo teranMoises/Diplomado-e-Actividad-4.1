@@ -1,7 +1,10 @@
 # Manual de Buenas Prácticas para Trabajos Universitarios en Grupo
+
 Autores: Moisés Terán y José Simón García
 
 Repositorio: https://github.com/teranMoises/Diplomado-e-Actividad-4.1
+
+<img src="../images/logo_UVM.png" alt="Logo UVM" height="100">
 
 ## Introducción
 
@@ -64,14 +67,9 @@ La redacción en grupo requiere coordinación para producir un documento coheren
   - Conclusión
   - Referencias
 
-### 5. Control de Versiones
+### 5. Herramientas Colaborativas y Control de Versiones
 
-Herramientas como GitHub ayudan a gestionar cambios y evitar pérdidas de información.
-
-- **Repositorio compartido**: Crea un repositorio en GitHub para almacenar el manual y otros documentos.
-- **Ramas**: Cada miembro trabaja en una rama específica (ej., `feature/seccion-introduccion`) para evitar conflictos.
-- **Commits regulares**: Realiza commits frecuentes con mensajes descriptivos (ej., "Añadida sección de comunicación").
-- **Pull requests**: Usa pull requests para revisar y fusionar cambios en la rama principal.
+Las herramientas colaborativas son esenciales para los trabajos universitarios, ya que optimizan la colaboración, mejoran la organización y desarrollan habilidades clave. Plataformas como Google Drive, Microsoft Teams, Trello y Notion son ejemplos destacados que han transformado la educación superior, especialmente en el contexto del aprendizaje a distancia. Al adoptar estas herramientas, los estudiantes no solo logran mejores resultados académicos, sino que también se preparan para un entorno laboral cada vez más digital y colaborativo.
 
 ### 6. Integridad Académica
 
@@ -91,6 +89,11 @@ Los desacuerdos son normales, pero pueden manejarse constructivamente.
 
 ## Herramientas Recomendadas
 
+<img src="../images/github.png" alt="Cronograma de ejemplo" width="170">
+<img src="../images/google_workspace.png" alt="Cronograma de ejemplo" width="170">
+<img src="../images/notion.png" alt="Cronograma de ejemplo" width="170">
+<img src="../images/zoom.png" alt="Cronograma de ejemplo" width="170">
+
 | **Categoría**              | **Herramienta** | **Descripción**                                                                 |
 |----------------------------|-----------------|---------------------------------------------------------------------------------|
 | Comunicación               | Slack           | Mensajería instantánea con canales organizados.                                 |
@@ -103,6 +106,8 @@ Los desacuerdos son normales, pero pueden manejarse constructivamente.
 | Control de versiones        | GitHub          | Gestión de documentos y colaboración en Markdown.                              |
 
 ## Gestión de Proyectos
+
+<img src="../images/cronograma.jpg" alt="Cronograma de ejemplo" height="120">
 
 ### 1. Planificación
 - Define el alcance del proyecto y los entregables (ej., un informe de 10 páginas).
@@ -137,19 +142,27 @@ Los desacuerdos son normales, pero pueden manejarse constructivamente.
 ### 5. Seguimiento
 - Verifica que el acuerdo se cumpla y que el conflicto no resurja.
 
-## Uso de GitHub para Escritura Colaborativa
+## Uso de Google Docs para Escritura Colaborativa
 
-GitHub es ideal para gestionar proyectos colaborativos, especialmente en formato Markdown.
+![Logo Google Docs](../images/logo_google_docs.png)
 
-- **Crear un repositorio**: Un miembro crea el repositorio y agrega a los demás como colaboradores.
-- **Estructura**: Organiza con carpetas `/documentos`, `/imagenes`, `/referencias`.
-- **Ramas**: Cada miembro trabaja en una rama específica (ej., `feature/seccion-gestion`).
-- **Pull Requests**: Revisa y fusiona cambios mediante pull requests.
-- **Issues**: Usa issues para asignar tareas y discutir ideas.
-- **Project Board**: Gestiona tareas con un tablero Kanban.
-- **Versionado**: Etiqueta versiones (v1.0, v1.1) y actualiza el `CHANGELOG.md`.
+Google Docs es ideal para gestionar proyectos colaborativos, tomando en consideración las siguientes características:
+
+- **Colaboración en Tiempo Real**: Edición simultánea con cambios visibles al instante.
+- **Control de Versiones**: Historial de cambios para rastrear y restaurar ediciones.
+- **Accesibilidad**: Uso desde cualquier dispositivo, con modo offline.
+- **Integración**: Conexión con Google Workspace y soporte para Word/PDF.
+
+Es por ello que ofrece varios beneficios, entre los cuales destacan:
+
+- **Mejora del trabajo en equipo**: Edición simultánea para equipos remotos.
+- **Gestión eficiente**: Control de versiones evita sobreescritura y pérdidas.
+- **Comunicación clara**: Herramientas como "Help me write" agilizan mensajes.
+- **Flexibilidad**: Acceso 24/7 desde cualquier dispositivo, ideal para proyectos a distancia.
 
 ## Plantilla de Contrato de Grupo
+
+Si se desea pactar de una manera más formal las condiciones para trabajar en equipo, se propone el siguiente contrato de ejemplo. Esto es recomendable si el equipo de trabajo ha sido forzado a formarse por situaciones arbitrarias, siendo necesario marcar las pautas desde el inicio para garantizar el desempeño deseado y que cada miembro cumpla con sus deberes.
 
 **Contrato de Grupo**  
 Este contrato establece las expectativas para el proyecto [nombre del proyecto].
@@ -179,9 +192,4 @@ Este contrato establece las expectativas para el proyecto [nombre del proyecto].
 **Firmado por**: [firmas de los miembros]
 
 ## Referencias
-
-- [Guide to Group Work | UNSW Current Students](https://www.student.unsw.edu.au/groupwork)
-- [Group Work | The Derek Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/group-work)
-- [7 Tips to More Effectively Work on Group Projects | Saint Leo University](https://www.saintleo.edu/about/stories/blog/7-tips-to-more-effectively-work-on-group-projects)
-- [Consejos para los trabajos en grupo en la universidad - CMMendel](https://www.cmmendel.com/trabajos-en-grupo-universidad/)
-- [Las 10 mejores prácticas de trabajo en equipo - Mozzaik365](https://www.mozzaik365.com/es/entradas-de-blog/10-best-practices-collaborative-work)
+[Ver lista completa de referencias](../references/referencias.md)
