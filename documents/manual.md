@@ -1,4 +1,7 @@
 # Manual de Buenas Prácticas para Trabajos Universitarios en Grupo
+Autores: Moisés Terán y José Simón García
+
+Repositorio: https://github.com/teranMoises/Diplomado-e-Actividad-4.1
 
 ## Introducción
 
@@ -98,3 +101,87 @@ Los desacuerdos son normales, pero pueden manejarse constructivamente.
 |                            | Notion          | Espacio todo en uno para notas y tareas.                                       |
 | Gestión de referencias      | Zotero          | Herramienta gratuita para organizar y citar fuentes.                           |
 | Control de versiones        | GitHub          | Gestión de documentos y colaboración en Markdown.                              |
+
+## Gestión de Proyectos
+
+### 1. Planificación
+- Define el alcance del proyecto y los entregables (ej., un informe de 10 páginas).
+- Divide el proyecto en tareas manejables (investigación, redacción, edición).
+- Estima el tiempo necesario para cada tarea.
+
+### 2. Asignación de Tareas
+- Asigna tareas según las fortalezas y disponibilidad de los miembros.
+- Asegúrate de que todos entiendan sus responsabilidades.
+
+### 3. Seguimiento del Progreso
+- Usa herramientas como Trello para visualizar el estado de las tareas.
+- Realiza reuniones semanales para discutir avances y obstáculos.
+
+### 4. Ajustes
+- Sé flexible para reasignar tareas o ajustar plazos si surgen imprevistos.
+
+## Resolución de Conflictos
+
+### 1. Identificar el Problema
+- Escucha a todas las partes para entender el origen del conflicto.
+
+### 2. Discusión Abierta
+- Fomenta un diálogo respetuoso donde cada miembro exprese su punto de vista.
+
+### 3. Buscar Soluciones
+- Propón soluciones que satisfagan a todos, enfocándote en los objetivos del proyecto.
+
+### 4. Acuerdo
+- Llega a un consenso sobre la mejor solución.
+
+### 5. Seguimiento
+- Verifica que el acuerdo se cumpla y que el conflicto no resurja.
+
+## Uso de GitHub para Escritura Colaborativa
+
+GitHub es ideal para gestionar proyectos colaborativos, especialmente en formato Markdown.
+
+- **Crear un repositorio**: Un miembro crea el repositorio y agrega a los demás como colaboradores.
+- **Estructura**: Organiza con carpetas `/documentos`, `/imagenes`, `/referencias`.
+- **Ramas**: Cada miembro trabaja en una rama específica (ej., `feature/seccion-gestion`).
+- **Pull Requests**: Revisa y fusiona cambios mediante pull requests.
+- **Issues**: Usa issues para asignar tareas y discutir ideas.
+- **Project Board**: Gestiona tareas con un tablero Kanban.
+- **Versionado**: Etiqueta versiones (v1.0, v1.1) y actualiza el `CHANGELOG.md`.
+
+## Plantilla de Contrato de Grupo
+
+**Contrato de Grupo**  
+Este contrato establece las expectativas para el proyecto [nombre del proyecto].
+
+1. **Miembros del Grupo**  
+   - Nombre: [nombre]  
+     Rol: [rol]  
+     Responsabilidades: [tareas]  
+   *(Repetir para cada miembro)*  
+
+2. **Comunicación**  
+   - Canales: [ej., WhatsApp, Slack]  
+   - Frecuencia de reuniones: [ej., semanal]  
+
+3. **Plazos**  
+   - Fecha de inicio: [fecha]  
+   - Fechas clave: [lista]  
+   - Fecha de entrega: [fecha]  
+
+4. **Procedimientos**  
+   - Decisiones: [ej., por consenso]  
+   - Resolución de conflictos: [ej., mediación por el líder]  
+
+5. **Sanciones**  
+   - Consecuencias por incumplimiento: [ej., informe al profesor]  
+
+**Firmado por**: [firmas de los miembros]
+
+## Referencias
+
+- [Guide to Group Work | UNSW Current Students](https://www.student.unsw.edu.au/groupwork)
+- [Group Work | The Derek Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/group-work)
+- [7 Tips to More Effectively Work on Group Projects | Saint Leo University](https://www.saintleo.edu/about/stories/blog/7-tips-to-more-effectively-work-on-group-projects)
+- [Consejos para los trabajos en grupo en la universidad - CMMendel](https://www.cmmendel.com/trabajos-en-grupo-universidad/)
+- [Las 10 mejores prácticas de trabajo en equipo - Mozzaik365](https://www.mozzaik365.com/es/entradas-de-blog/10-best-practices-collaborative-work)
